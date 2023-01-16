@@ -1,0 +1,40 @@
+
+Cars
+
+You are to write some basic classes in Java. You are to implement Vehicle.java, Car.java, Truck.java and MainTest.java classes. Each Vehicle object will represent information about a specific automobile that is for sale. Essential data should include:
+
+    Make and model
+    Model year
+    Is it 4 wheel drive or not?
+    Retail Price
+    Miles Per Gallon
+
+A Car has an additional property:
+
+    Is it convertible?
+
+A Truck has some special properties:
+
+    Has Side Step?
+    Tow Capacity
+
+You must implement the complete classes, including data members and methods. You must use inheritance and you must implement:
+
+    Constructors
+    Getters and Setters
+    printVehicle() → To print out any vehicle object. Example output:
+
+2015 Ford F-150
+4WD
+$35,000
+17MPG
+No Side Step
+Tow up to 2 tons
+
+In a test method in file MainTest.java, test your program by doing the following:
+
+    Create an array (or a list) of Vehicle so you can hold objects of Car and Truck.
+    Create a few objects of Car and Truck, set their values, and save them to the array (or list).
+    Loop through the array (or list) and output the vehicles.
+
+Submit the files Vehicle.java, Car.java, Truck.java and MainTest.java when done.

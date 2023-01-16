@@ -1,0 +1,1 @@
+Employee{name='Reyan Ali', address='Phokka Kuan, Ambehta Peer', SSN=0, number=101}

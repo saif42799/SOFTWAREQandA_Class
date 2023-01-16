@@ -1,0 +1,1 @@
+Vehicle{makeModel='Ford F150', year=2015, reatilPrice=35000.0, is4WD=false}Vehicle{makeModel='Ford F250', year=2015, reatilPrice=75000.0, is4WD=false}Vehicle{makeModel='Ford F350', year=2015, reatilPrice=15000.0, is4WD=false}
